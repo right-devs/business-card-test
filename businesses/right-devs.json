@@ -1,3 +1,7 @@
-{
-  "name": "Right Developers"
-}
+{  
+    "employee": {  
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}  
