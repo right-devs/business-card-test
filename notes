@@ -1,9 +1,9 @@
 {
   "notes":[
-    {name: "Ram", age: 34},
-    {name: "Sita", age: 34},
-    {name: "Lakhsman", age: 23}
+    {"name": "Ram", "age": 34},
+    {"name": "Sita", "age": 34},
+    {"name": "Lakhsman", "age": 23}
   ],
-  createdBy: "Tulsi",
-  createdOn: "01 Jan 2023"
+  "createdBy": "Tulsi",
+  "createdOn": "01 Jan 2023"
 }
